@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/activity_exam1"
+        android:title="@string/exam_1_activity" app:showAsAction="never" />
+    <item android:id="@+id/activity_exam2"
+        android:title="@string/exam_2_activity" app:showAsAction="never" />
+</menu>

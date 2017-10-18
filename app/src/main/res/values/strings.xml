@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">A201232016</string>
+    <string name="exam_1_activity">Exam1Activity 열기</string>
+    <string name="exam_2_activity">Exam2Activity 열기</string>
+    <string name="save">저장</string>
+    <string name="delete">지우기</string>
+    <string name="cat">고양이</string>
+    <string name="dog">강아지</string>
+    <string name="metro">지하철</string>
+    <string name="bus">버스</string>
+</resources>
